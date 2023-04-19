@@ -1,5 +1,7 @@
 # Api Azure Appconfiguration Refresh
 
-This project is related to Tests related to AppConfiguration with Refresher.
+Project made to test a way to get AppConfiguration updates from Azure.
+
+Both in a Web project and in a Worker project.
 
 
